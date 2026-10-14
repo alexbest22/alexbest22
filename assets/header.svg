@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340" role="img" aria-labelledby="title desc">
+  <title id="title">Álex Lima — Desenvolvimento web, APIs e automação</title>
+  <desc id="desc">Banner azul escuro com o nome Álex Lima e uma ilustração de uma janela de código.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1220"/><stop offset="1" stop-color="#142747"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#60a5fa"/><stop offset="1" stop-color="#5eead4"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#7694bf" stroke-opacity=".09"/></pattern>
+  </defs>
+  <rect width="1280" height="340" rx="24" fill="url(#bg)"/>
+  <rect width="1280" height="340" rx="24" fill="url(#grid)"/>
+  <circle cx="1190" cy="10" r="230" fill="#2563eb" opacity=".08"/>
+  <circle cx="1100" cy="350" r="170" fill="#2dd4bf" opacity=".04"/>
+  <rect x="58" y="54" width="45" height="4" rx="2" fill="url(#accent)"/>
+  <text x="58" y="89" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="600" letter-spacing="3" fill="#93c5fd">OLÁ, SOU</text>
+  <text x="54" y="163" font-family="Segoe UI,Arial,sans-serif" font-size="66" font-weight="700" letter-spacing="-2" fill="#f1f5f9">Álex Lima</text>
+  <text x="58" y="204" font-family="Segoe UI,Arial,sans-serif" font-size="22" fill="#bac9df">Desenvolvimento web · APIs · Automação</text>
+  <rect x="58" y="240" width="132" height="34" rx="17" fill="#60a5fa" fill-opacity=".1" stroke="#60a5fa" stroke-opacity=".3"/>
+  <text x="124" y="262" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="14" fill="#bfdbfe">@alexbest22</text>
+  <g transform="translate(796 52)">
+    <rect x="0" y="0" width="424" height="238" rx="16" fill="#091321" stroke="#375173"/>
+    <path d="M16 0h392a16 16 0 0 1 16 16v25H0V16A16 16 0 0 1 16 0" fill="#172a43"/>
+    <circle cx="22" cy="21" r="5" fill="#f87171"/>
+    <circle cx="40" cy="21" r="5" fill="#fbbf24"/>
+    <circle cx="58" cy="21" r="5" fill="#34d399"/>
+    <text x="85" y="26" font-family="Consolas,monospace" font-size="12" fill="#94a9c5">profile.ts</text>
+    <g font-family="Consolas,monospace" font-size="17">
+      <text x="24" y="82" fill="#c4b5fd">const <tspan fill="#bfdbfe">developer</tspan><tspan fill="#b0bed3"> = {</tspan></text>
+      <text x="45" y="115" fill="#b0bed3">name: <tspan fill="#5eead4">'Álex Lima'</tspan>,</text>
+      <text x="45" y="148" fill="#b0bed3">focus: <tspan fill="#5eead4">'Construir soluções'</tspan>,</text>
+      <text x="45" y="181" fill="#b0bed3">stack: <tspan fill="#93c5fd">['JS', 'TS', 'Node']</tspan></text>
+      <text x="24" y="214" fill="#b0bed3">};<tspan fill="#60a5fa"> ▌</tspan></text>
+    </g>
+  </g>
+  <rect x="58" y="315" width="1162" height="2" rx="1" fill="url(#accent)" opacity=".55"/>
+</svg>
