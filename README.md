@@ -6,18 +6,13 @@
   <strong>Transformando processos do dia a dia em soluções com código.</strong>
 </p>
 
-## 👋 Sobre mim
-
 Sou **Álex Lima**. Desenvolvo aplicações web e desktop, APIs e automações que simplificam tarefas e organizam processos.
 
-- 🖥️ **Web e desktop:** interfaces, dashboards e sistemas de gestão.
-- ⚙️ **Backend:** APIs, integrações e persistência de dados.
-- 🤖 **Automação:** rotinas para reduzir tarefas repetitivas.
-- 🤝 **Colaboração:** participação em projetos de educação, ergonomia e inteligência artificial aplicada à segurança.
+- **Web e desktop:** interfaces, dashboards e sistemas de gestão.
+- **Backend:** APIs, integrações e persistência de dados.
+- **Automação:** rotinas para reduzir tarefas repetitivas.
 
 ## 🧩 Linguagens e tecnologias
-
-Tecnologias presentes nos meus projetos e nas aplicações em que colaboro.
 
 ### Linguagens
 
@@ -85,16 +80,16 @@ Tecnologias presentes nos meus projetos e nas aplicações em que colaboro.
 
 ---
 
-## 🤝 Projetos em que colaboro
+## 🤝 Projetos:
 
 | Projeto | Área | Tecnologias |
 | --- | --- | --- |
 | [AVA UNIFAN](https://github.com/RiosWesley/AVA-UNIFAN) | Ambiente virtual de aprendizagem | Next.js, React, TypeScript, Tailwind CSS |
 | [AVA Backend](https://github.com/otaviocostao/ava-backend) | API do ambiente de aprendizagem | Node.js, NestJS, PostgreSQL, Supabase |
 | [Ergo App](https://github.com/otaviocostao/ergo-app-tauri) | Aplicação desktop de ergonomia | Tauri, Rust, React, TypeScript, SQLite |
-| [CyberSentinel](https://github.com/RiosWesley/cybersec-agent) | IA aplicada à análise de segurança | Python, FastAPI, Docker |
+| [Consulta NFE](https://github.com/alexbest22/consulta-nfe.git) | Download automático de planilhas da SEFAZ | Python, Selenium, OCR |
 
-## 📂 Código por aqui
+## 📂 Código por aqui:
 
 No meu GitHub você encontra parte dos projetos, experimentos e repositórios que acompanho.
 
