@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340" role="img" aria-labelledby="title desc">
-  <title id="title">Álex Lima — Desenvolvimento web, APIs e automação</title>
+  <title id="title">Álex Lima — Web, desktop, APIs e automação</title>
   <desc id="desc">Banner azul escuro com o nome Álex Lima e uma ilustração de uma janela de código.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1220"/><stop offset="1" stop-color="#142747"/></linearGradient>
@@ -13,7 +13,7 @@
   <rect x="58" y="54" width="45" height="4" rx="2" fill="url(#accent)"/>
   <text x="58" y="89" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="600" letter-spacing="3" fill="#93c5fd">OLÁ, SOU</text>
   <text x="54" y="163" font-family="Segoe UI,Arial,sans-serif" font-size="66" font-weight="700" letter-spacing="-2" fill="#f1f5f9">Álex Lima</text>
-  <text x="58" y="204" font-family="Segoe UI,Arial,sans-serif" font-size="22" fill="#bac9df">Desenvolvimento web · APIs · Automação</text>
+  <text x="58" y="204" font-family="Segoe UI,Arial,sans-serif" font-size="22" fill="#bac9df">Web · Desktop · APIs · Automação</text>
   <rect x="58" y="240" width="132" height="34" rx="17" fill="#60a5fa" fill-opacity=".1" stroke="#60a5fa" stroke-opacity=".3"/>
   <text x="124" y="262" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="14" fill="#bfdbfe">@alexbest22</text>
   <g transform="translate(796 52)">
@@ -27,7 +27,7 @@
       <text x="24" y="82" fill="#c4b5fd">const <tspan fill="#bfdbfe">developer</tspan><tspan fill="#b0bed3"> = {</tspan></text>
       <text x="45" y="115" fill="#b0bed3">name: <tspan fill="#5eead4">'Álex Lima'</tspan>,</text>
       <text x="45" y="148" fill="#b0bed3">focus: <tspan fill="#5eead4">'Construir soluções'</tspan>,</text>
-      <text x="45" y="181" fill="#b0bed3">stack: <tspan fill="#93c5fd">['JS', 'TS', 'Node']</tspan></text>
+      <text x="45" y="181" fill="#b0bed3">stack: <tspan fill="#93c5fd">['Python', 'PHP', 'TS']</tspan></text>
       <text x="24" y="214" fill="#b0bed3">};<tspan fill="#60a5fa"> ▌</tspan></text>
     </g>
   </g>
