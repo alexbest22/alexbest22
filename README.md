@@ -12,7 +12,7 @@ Sou **Álex Lima**. Desenvolvo aplicações web e desktop, APIs e automações q
 - **Backend:** APIs, integrações e persistência de dados.
 - **Automação:** rotinas para reduzir tarefas repetitivas.
 
-## 🧩 Linguagens e tecnologias
+## Linguagens e tecnologias:
 
 ### Linguagens
 
@@ -80,7 +80,7 @@ Sou **Álex Lima**. Desenvolvo aplicações web e desktop, APIs e automações q
 
 ---
 
-## 🤝 Projetos:
+## Projetos:
 
 | Projeto | Área | Tecnologias |
 | --- | --- | --- |
@@ -89,7 +89,7 @@ Sou **Álex Lima**. Desenvolvo aplicações web e desktop, APIs e automações q
 | [Ergo App](https://github.com/otaviocostao/ergo-app-tauri) | Aplicação desktop de ergonomia | Tauri, Rust, React, TypeScript, SQLite |
 | [Consulta NFE](https://github.com/alexbest22/consulta-nfe.git) | Download automático de planilhas da SEFAZ | Python, Selenium, OCR |
 
-## 📂 Código por aqui:
+## Veja mais por aqui:
 
 No meu GitHub você encontra parte dos projetos, experimentos e repositórios que acompanho.
 
