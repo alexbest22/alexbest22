@@ -2,6 +2,12 @@
   <img src="./assets/header.svg" alt="Álex Lima — Web, desktop, APIs e automação" width="100%" />
 </p>
 
+<p align="center">
+  <a href="#linguagens-e-tecnologias">Explorar stack</a> ·
+  <a href="#projetos">Projetos</a> ·
+  <a href="https://github.com/alexbest22?tab=repositories">Repositórios</a>
+</p>
+
 Sou **Álex Lima**. Desenvolvo aplicações web e desktop, APIs e automações que simplificam tarefas e organizam processos.
 
 - **Web e desktop:** interfaces, dashboards e sistemas de gestão.
@@ -10,7 +16,10 @@ Sou **Álex Lima**. Desenvolvo aplicações web e desktop, APIs e automações q
 
 ## Linguagens e tecnologias:
 
-### Linguagens
+Abra as áreas abaixo para explorar as tecnologias.
+
+<details open>
+<summary><strong>Linguagens — Python, PHP, Java e mais</strong></summary>
 
 <p>
   <img src="./assets/typescript.svg" width="42" height="42" alt="TypeScript" title="TypeScript" /> &nbsp;
@@ -23,7 +32,10 @@ Sou **Álex Lima**. Desenvolvo aplicações web e desktop, APIs e automações q
 
 **TypeScript · JavaScript · Python · PHP · Java · Rust**
 
-### Frontend
+</details>
+
+<details>
+<summary><strong>Frontend — interfaces para a web</strong></summary>
 
 <p>
   <img src="./assets/react.svg" width="42" height="42" alt="React" title="React" /> &nbsp;
@@ -38,7 +50,10 @@ Sou **Álex Lima**. Desenvolvo aplicações web e desktop, APIs e automações q
 
 **React · Next.js · Vue.js · HTML · CSS · Tailwind CSS · jQuery · Vite**
 
-### Backend
+</details>
+
+<details>
+<summary><strong>Backend — APIs e integrações</strong></summary>
 
 <p>
   <img src="./assets/nodejs.svg" width="42" height="42" alt="Node.js" title="Node.js" /> &nbsp;
@@ -49,7 +64,10 @@ Sou **Álex Lima**. Desenvolvo aplicações web e desktop, APIs e automações q
 
 **Node.js · NestJS · Laravel · FastAPI**
 
-### Bancos e dados
+</details>
+
+<details>
+<summary><strong>Bancos e dados — persistência e cache</strong></summary>
 
 <p>
   <img src="./assets/postgresql.svg" width="42" height="42" alt="PostgreSQL" title="PostgreSQL" /> &nbsp;
@@ -63,7 +81,10 @@ Sou **Álex Lima**. Desenvolvo aplicações web e desktop, APIs e automações q
 
 **PostgreSQL · MySQL · MariaDB · SQLite · Redis · Prisma · Supabase**
 
-### Desktop, automação e ferramentas
+</details>
+
+<details>
+<summary><strong>Desktop, automação e ferramentas</strong></summary>
 
 <p>
   <img src="./assets/tauri.svg" width="42" height="42" alt="Tauri" title="Tauri" /> &nbsp;
@@ -73,6 +94,9 @@ Sou **Álex Lima**. Desenvolvo aplicações web e desktop, APIs e automações q
 </p>
 
 **Tauri · Playwright · Docker · Git**
+
+</details>
+
 
 ---
 

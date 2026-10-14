@@ -1,35 +1,64 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340" role="img" aria-labelledby="title desc">
-  <title id="title">Álex Lima — Web, desktop, APIs e automação</title>
-  <desc id="desc">Banner azul escuro com o nome Álex Lima e uma ilustração de uma janela de código.</desc>
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1220"/><stop offset="1" stop-color="#142747"/></linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#60a5fa"/><stop offset="1" stop-color="#5eead4"/></linearGradient>
-    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#7694bf" stroke-opacity=".09"/></pattern>
-  </defs>
-  <rect width="1280" height="340" rx="24" fill="url(#bg)"/>
-  <rect width="1280" height="340" rx="24" fill="url(#grid)"/>
-  <circle cx="1190" cy="10" r="230" fill="#2563eb" opacity=".08"/>
-  <circle cx="1100" cy="350" r="170" fill="#2dd4bf" opacity=".04"/>
-  <rect x="58" y="54" width="45" height="4" rx="2" fill="url(#accent)"/>
-  <text x="58" y="89" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="600" letter-spacing="3" fill="#93c5fd">OLÁ, SOU</text>
-  <text x="54" y="163" font-family="Segoe UI,Arial,sans-serif" font-size="66" font-weight="700" letter-spacing="-2" fill="#f1f5f9">Álex Lima</text>
-  <text x="58" y="204" font-family="Segoe UI,Arial,sans-serif" font-size="22" fill="#bac9df">Web · Desktop · APIs · Automação</text>
-  <rect x="58" y="240" width="132" height="34" rx="17" fill="#60a5fa" fill-opacity=".1" stroke="#60a5fa" stroke-opacity=".3"/>
-  <text x="124" y="262" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="14" fill="#bfdbfe">@alexbest22</text>
-  <g transform="translate(796 52)">
-    <rect x="0" y="0" width="424" height="238" rx="16" fill="#091321" stroke="#375173"/>
-    <path d="M16 0h392a16 16 0 0 1 16 16v25H0V16A16 16 0 0 1 16 0" fill="#172a43"/>
-    <circle cx="22" cy="21" r="5" fill="#f87171"/>
-    <circle cx="40" cy="21" r="5" fill="#fbbf24"/>
-    <circle cx="58" cy="21" r="5" fill="#34d399"/>
-    <text x="85" y="26" font-family="Consolas,monospace" font-size="12" fill="#94a9c5">profile.ts</text>
-    <g font-family="Consolas,monospace" font-size="17">
-      <text x="24" y="82" fill="#c4b5fd">const <tspan fill="#bfdbfe">developer</tspan><tspan fill="#b0bed3"> = {</tspan></text>
-      <text x="45" y="115" fill="#b0bed3">name: <tspan fill="#5eead4">'Álex Lima'</tspan>,</text>
-      <text x="45" y="148" fill="#b0bed3">focus: <tspan fill="#5eead4">'Construir soluções'</tspan>,</text>
-      <text x="45" y="181" fill="#b0bed3">stack: <tspan fill="#93c5fd">['Python', 'PHP', 'TS']</tspan></text>
-      <text x="24" y="214" fill="#b0bed3">};<tspan fill="#60a5fa"> ▌</tspan></text>
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="384" viewBox="0 0 1280 384" role="img" aria-labelledby="title desc">
+<title id="title">Álex Lima — Web, desktop, APIs e automação</title>
+<desc id="desc">Banner animado com um terminal, cursor piscando, símbolos de código e sinais percorrendo um circuito.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080f1e"/><stop offset="1" stop-color="#142a48"/></linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#60a5fa"/><stop offset="1" stop-color="#5eead4"/></linearGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#7694bf" stroke-opacity=".08"/></pattern>
+  <clipPath id="typed"><rect class="typing" x="58" y="222" width="615" height="38"/></clipPath>
+  <filter id="glow"><feGaussianBlur stdDeviation="3"/></filter>
+</defs>
+<style>
+@keyframes blink{0%,45%{opacity:1}50%,95%{opacity:0}100%{opacity:1}}
+@keyframes type{0%,8%{width:0}42%,84%{width:615px}98%,100%{width:0}}
+@keyframes drift{0%,100%{transform:translateY(0)}50%{transform:translateY(-9px)}}
+@keyframes trace{0%{stroke-dashoffset:900;opacity:0}12%,88%{opacity:.8}100%{stroke-dashoffset:-900;opacity:0}}
+@keyframes pulse{0%,100%{opacity:.22}50%{opacity:.8}}
+@keyframes reveal{0%,8%{opacity:.22}22%,88%{opacity:1}100%{opacity:.22}}
+.cursor{animation:blink 1.2s steps(1,end) infinite}.typing{animation:type 12s steps(43,end) infinite}
+.float{animation:drift 7s ease-in-out infinite}.float2{animation:drift 8s ease-in-out -3s infinite}
+.signal{animation:trace 7s linear infinite}.pulse{animation:pulse 4s ease-in-out infinite}
+.line1{animation:reveal 12s ease-in-out infinite}.line2{animation:reveal 12s ease-in-out -10s infinite}.line3{animation:reveal 12s ease-in-out -8s infinite}
+@media(prefers-reduced-motion:reduce){.cursor,.typing,.float,.float2,.signal,.pulse,.line1,.line2,.line3{animation:none}.typing{width:615px}.signal{opacity:.5}}
+</style>
+<rect width="1280" height="384" rx="24" fill="url(#bg)"/>
+<rect width="1280" height="384" rx="24" fill="url(#grid)"/>
+<circle cx="1200" cy="-10" r="230" fill="#2563eb" opacity=".08"/>
+<circle cx="1090" cy="440" r="190" fill="#2dd4bf" opacity=".04"/>
+<g font-family="Consolas,monospace" font-weight="700" fill="#60a5fa" opacity=".17">
+  <g transform="translate(690 75)"><text class="float" font-size="37">&lt;/&gt;</text></g>
+  <g transform="translate(1210 325)"><text class="float2" font-size="40">{ }</text></g>
+  <g transform="translate(750 328)"><text class="float" font-size="28">[ ]</text></g>
+</g>
+<rect x="58" y="53" width="45" height="4" rx="2" fill="url(#accent)"/>
+<circle class="pulse" cx="222" cy="74" r="5" fill="#5eead4"/>
+<text x="58" y="80" font-family="Consolas,monospace" font-size="14" letter-spacing="2" fill="#93c5fd">HELLO, WORLD</text>
+<text x="54" y="157" font-family="Segoe UI,Arial,sans-serif" font-size="66" font-weight="700" letter-spacing="-2" fill="#f1f5f9">Álex Lima</text>
+<text x="58" y="198" font-family="Segoe UI,Arial,sans-serif" font-size="22" fill="#bac9df">Web · Desktop · APIs · Automação</text>
+<g clip-path="url(#typed)"><text x="58" y="250" font-family="Consolas,monospace" font-size="18" fill="#5eead4">&gt; transformando ideias em soluções com código_</text></g>
+<g transform="translate(58 280)" font-family="Consolas,monospace" font-size="14" text-anchor="middle">
+  <rect width="96" height="32" rx="8" fill="#13233e" stroke="#335676"/><text x="48" y="21" fill="#93c5fd">Python</text>
+  <rect x="108" width="76" height="32" rx="8" fill="#13233e" stroke="#335676"/><text x="146" y="21" fill="#c4b5fd">PHP</text>
+  <rect x="196" width="80" height="32" rx="8" fill="#13233e" stroke="#335676"/><text x="236" y="21" fill="#fbbf24">Java</text>
+  <rect x="288" width="128" height="32" rx="8" fill="#13233e" stroke="#335676"/><text x="352" y="21" fill="#93c5fd">TypeScript</text>
+</g>
+<g transform="translate(795 54)">
+  <rect x="-3" y="-3" width="430" height="257" rx="18" fill="none" stroke="#5eead4" stroke-opacity=".25" class="pulse"/>
+  <rect width="424" height="250" rx="16" fill="#091321" stroke="#375173"/>
+  <path d="M16 0h392a16 16 0 0 1 16 16v25H0V16A16 16 0 0 1 16 0" fill="#172a43"/>
+  <circle cx="22" cy="21" r="5" fill="#f87171"/><circle cx="40" cy="21" r="5" fill="#fbbf24"/><circle cx="58" cy="21" r="5" fill="#34d399"/>
+  <text x="85" y="26" font-family="Consolas,monospace" font-size="12" fill="#94a9c5">alex@github: ~/projects</text>
+  <g font-family="Consolas,monospace" font-size="17">
+    <text x="24" y="79" fill="#c4b5fd">const <tspan fill="#bfdbfe">developer</tspan><tspan fill="#b0bed3"> = {</tspan></text>
+    <text class="line1" x="45" y="111" fill="#b0bed3">name: <tspan fill="#5eead4">'Álex Lima'</tspan>,</text>
+    <text class="line2" x="45" y="143" fill="#b0bed3">focus: <tspan fill="#5eead4">'Construir soluções'</tspan>,</text>
+    <text class="line3" x="45" y="175" fill="#b0bed3">stack: <tspan fill="#93c5fd">['Python', 'PHP', 'TS']</tspan></text>
+    <text x="24" y="207" fill="#b0bed3">};</text>
+    <text x="24" y="234" fill="#5eead4">&gt; <tspan fill="#94a9c5">git commit -m "hello world"</tspan></text>
+    <rect class="cursor" x="377" y="220" width="9" height="17" fill="#60a5fa"/>
   </g>
-  <rect x="58" y="315" width="1162" height="2" rx="1" fill="url(#accent)" opacity=".55"/>
+</g>
+<path d="M58 347H430l18 16h280l20-16h472" fill="none" stroke="#335676" stroke-width="2"/>
+<path class="signal" d="M58 347H430l18 16h280l20-16h472" fill="none" stroke="url(#accent)" stroke-width="3" stroke-dasharray="90 810"/>
+<circle class="pulse" cx="58" cy="347" r="4" fill="#60a5fa"/><circle class="pulse" cx="1220" cy="347" r="4" fill="#5eead4"/>
 </svg>
