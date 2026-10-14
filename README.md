@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" alt="Álex Lima — Web, desktop, APIs e automação" width="100%" />
+  <img src="./assets/binary-rain.gif" alt="Álex Lima — chuva animada de zeros e uns" width="100%" />
 </p>
 
 <p align="center">
