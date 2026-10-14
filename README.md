@@ -2,10 +2,6 @@
   <img src="./assets/header.svg" alt="Álex Lima — Web, desktop, APIs e automação" width="100%" />
 </p>
 
-<p align="center">
-  <strong>Transformando processos do dia a dia em soluções com código.</strong>
-</p>
-
 Sou **Álex Lima**. Desenvolvo aplicações web e desktop, APIs e automações que simplificam tarefas e organizam processos.
 
 - **Web e desktop:** interfaces, dashboards e sistemas de gestão.
