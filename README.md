@@ -21,79 +21,184 @@ Abra as áreas abaixo para explorar as tecnologias.
 <details open>
 <summary><strong>Linguagens — Python, PHP, Java e mais</strong></summary>
 
-<p>
-  <img src="./assets/typescript.svg" width="42" height="42" alt="TypeScript" title="TypeScript" /> &nbsp;
-  <img src="./assets/javascript.svg" width="42" height="42" alt="JavaScript" title="JavaScript" /> &nbsp;
-  <img src="./assets/python.svg" width="42" height="42" alt="Python" title="Python" /> &nbsp;
-  <img src="./assets/php.svg" width="42" height="42" alt="PHP" title="PHP" /> &nbsp;
-  <img src="./assets/java.svg" width="42" height="42" alt="Java" title="Java" /> &nbsp;
-  <img src="./assets/rust.svg" width="42" height="42" alt="Rust" title="Rust" />
-</p>
+<br />
 
-**TypeScript · JavaScript · Python · PHP · Java · Rust**
+<table width="100%">
+  <tr>
+    <td align="center" width="25%">
+      <img src="./assets/typescript.svg" width="42" height="42" alt="TypeScript" title="TypeScript" /><br />
+      <sub><strong>TypeScript</strong></sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="./assets/javascript.svg" width="42" height="42" alt="JavaScript" title="JavaScript" /><br />
+      <sub><strong>JavaScript</strong></sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="./assets/python.svg" width="42" height="42" alt="Python" title="Python" /><br />
+      <sub><strong>Python</strong></sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="./assets/php.svg" width="42" height="42" alt="PHP" title="PHP" /><br />
+      <sub><strong>PHP</strong></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="25%">
+      <img src="./assets/java.svg" width="42" height="42" alt="Java" title="Java" /><br />
+      <sub><strong>Java</strong></sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="./assets/rust.svg" width="42" height="42" alt="Rust" title="Rust" /><br />
+      <sub><strong>Rust</strong></sub>
+    </td>
+    <td colspan="2"></td>
+  </tr>
+</table>
 
 </details>
 
 <details>
 <summary><strong>Frontend — interfaces para a web</strong></summary>
 
-<p>
-  <img src="./assets/react.svg" width="42" height="42" alt="React" title="React" /> &nbsp;
-  <img src="./assets/nextjs.svg" width="42" height="42" alt="Next.js" title="Next.js" /> &nbsp;
-  <img src="./assets/vuejs.svg" width="42" height="42" alt="Vue.js" title="Vue.js" /> &nbsp;
-  <img src="./assets/html5.svg" width="42" height="42" alt="HTML" title="HTML" /> &nbsp;
-  <img src="./assets/css3.svg" width="42" height="42" alt="CSS" title="CSS" /> &nbsp;
-  <img src="./assets/tailwindcss.svg" width="42" height="42" alt="Tailwind CSS" title="Tailwind CSS" /> &nbsp;
-  <img src="./assets/jquery.svg" width="42" height="42" alt="jQuery" title="jQuery" /> &nbsp;
-  <img src="./assets/vite.svg" width="42" height="42" alt="Vite" title="Vite" />
-</p>
+<br />
 
-**React · Next.js · Vue.js · HTML · CSS · Tailwind CSS · jQuery · Vite**
+<table width="100%">
+  <tr>
+    <td align="center" width="25%">
+      <img src="./assets/react.svg" width="42" height="42" alt="React" title="React" /><br />
+      <sub><strong>React</strong></sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="./assets/nextjs.svg" width="42" height="42" alt="Next.js" title="Next.js" /><br />
+      <sub><strong>Next.js</strong></sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="./assets/vuejs.svg" width="42" height="42" alt="Vue.js" title="Vue.js" /><br />
+      <sub><strong>Vue.js</strong></sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="./assets/html5.svg" width="42" height="42" alt="HTML" title="HTML" /><br />
+      <sub><strong>HTML</strong></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="25%">
+      <img src="./assets/css3.svg" width="42" height="42" alt="CSS" title="CSS" /><br />
+      <sub><strong>CSS</strong></sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="./assets/tailwindcss.svg" width="42" height="42" alt="Tailwind CSS" title="Tailwind CSS" /><br />
+      <sub><strong>Tailwind CSS</strong></sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="./assets/jquery.svg" width="42" height="42" alt="jQuery" title="jQuery" /><br />
+      <sub><strong>jQuery</strong></sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="./assets/vite.svg" width="42" height="42" alt="Vite" title="Vite" /><br />
+      <sub><strong>Vite</strong></sub>
+    </td>
+  </tr>
+</table>
 
 </details>
 
 <details>
 <summary><strong>Backend — APIs e integrações</strong></summary>
 
-<p>
-  <img src="./assets/nodejs.svg" width="42" height="42" alt="Node.js" title="Node.js" /> &nbsp;
-  <img src="./assets/nestjs.svg" width="42" height="42" alt="NestJS" title="NestJS" /> &nbsp;
-  <img src="./assets/laravel.svg" width="42" height="42" alt="Laravel" title="Laravel" /> &nbsp;
-  <img src="./assets/fastapi.svg" width="42" height="42" alt="FastAPI" title="FastAPI" />
-</p>
+<br />
 
-**Node.js · NestJS · Laravel · FastAPI**
+<table width="100%">
+  <tr>
+    <td align="center" width="25%">
+      <img src="./assets/nodejs.svg" width="42" height="42" alt="Node.js" title="Node.js" /><br />
+      <sub><strong>Node.js</strong></sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="./assets/nestjs.svg" width="42" height="42" alt="NestJS" title="NestJS" /><br />
+      <sub><strong>NestJS</strong></sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="./assets/laravel.svg" width="42" height="42" alt="Laravel" title="Laravel" /><br />
+      <sub><strong>Laravel</strong></sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="./assets/fastapi.svg" width="42" height="42" alt="FastAPI" title="FastAPI" /><br />
+      <sub><strong>FastAPI</strong></sub>
+    </td>
+  </tr>
+</table>
 
 </details>
 
 <details>
 <summary><strong>Bancos e dados — persistência e cache</strong></summary>
 
-<p>
-  <img src="./assets/postgresql.svg" width="42" height="42" alt="PostgreSQL" title="PostgreSQL" /> &nbsp;
-  <img src="./assets/mysql.svg" width="42" height="42" alt="MySQL" title="MySQL" /> &nbsp;
-  <img src="./assets/mariadb.svg" width="42" height="42" alt="MariaDB" title="MariaDB" /> &nbsp;
-  <img src="./assets/sqlite.svg" width="42" height="42" alt="SQLite" title="SQLite" /> &nbsp;
-  <img src="./assets/redis.svg" width="42" height="42" alt="Redis" title="Redis" /> &nbsp;
-  <img src="./assets/prisma.svg" width="42" height="42" alt="Prisma" title="Prisma" /> &nbsp;
-  <img src="./assets/supabase.svg" width="42" height="42" alt="Supabase" title="Supabase" />
-</p>
+<br />
 
-**PostgreSQL · MySQL · MariaDB · SQLite · Redis · Prisma · Supabase**
+<table width="100%">
+  <tr>
+    <td align="center" width="25%">
+      <img src="./assets/postgresql.svg" width="42" height="42" alt="PostgreSQL" title="PostgreSQL" /><br />
+      <sub><strong>PostgreSQL</strong></sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="./assets/mysql.svg" width="42" height="42" alt="MySQL" title="MySQL" /><br />
+      <sub><strong>MySQL</strong></sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="./assets/mariadb.svg" width="42" height="42" alt="MariaDB" title="MariaDB" /><br />
+      <sub><strong>MariaDB</strong></sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="./assets/sqlite.svg" width="42" height="42" alt="SQLite" title="SQLite" /><br />
+      <sub><strong>SQLite</strong></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="25%">
+      <img src="./assets/redis.svg" width="42" height="42" alt="Redis" title="Redis" /><br />
+      <sub><strong>Redis</strong></sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="./assets/prisma.svg" width="42" height="42" alt="Prisma" title="Prisma" /><br />
+      <sub><strong>Prisma</strong></sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="./assets/supabase.svg" width="42" height="42" alt="Supabase" title="Supabase" /><br />
+      <sub><strong>Supabase</strong></sub>
+    </td>
+    <td colspan="1"></td>
+  </tr>
+</table>
 
 </details>
 
 <details>
 <summary><strong>Desktop, automação e ferramentas</strong></summary>
 
-<p>
-  <img src="./assets/tauri.svg" width="42" height="42" alt="Tauri" title="Tauri" /> &nbsp;
-  <img src="./assets/playwright.svg" width="42" height="42" alt="Playwright" title="Playwright" /> &nbsp;
-  <img src="./assets/docker.svg" width="42" height="42" alt="Docker" title="Docker" /> &nbsp;
-  <img src="./assets/git.svg" width="42" height="42" alt="Git" title="Git" />
-</p>
+<br />
 
-**Tauri · Playwright · Docker · Git**
+<table width="100%">
+  <tr>
+    <td align="center" width="25%">
+      <img src="./assets/tauri.svg" width="42" height="42" alt="Tauri" title="Tauri" /><br />
+      <sub><strong>Tauri</strong></sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="./assets/playwright.svg" width="42" height="42" alt="Playwright" title="Playwright" /><br />
+      <sub><strong>Playwright</strong></sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="./assets/docker.svg" width="42" height="42" alt="Docker" title="Docker" /><br />
+      <sub><strong>Docker</strong></sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="./assets/git.svg" width="42" height="42" alt="Git" title="Git" /><br />
+      <sub><strong>Git</strong></sub>
+    </td>
+  </tr>
+</table>
 
 </details>
 
