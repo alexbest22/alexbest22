@@ -92,8 +92,15 @@ Tecnologias utilizadas nos projetos apresentados:
 
 Para conversar sobre projetos e desenvolvimento:
 
-- **E-mail:** [romilsonlim@gmail.com](mailto:romilsonlim@gmail.com)
-- **LinkedIn:** [Álex Lima](https://www.linkedin.com/in/%C3%A1lex-lima-fullstack/)
+<p>
+  <a href="mailto:romilsonlim@gmail.com" title="Enviar e-mail para romilsonlim@gmail.com">
+    <img src="./assets/email-button.svg" width="136" height="44" alt="E-mail — romilsonlim@gmail.com" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/%C3%A1lex-lima-fullstack/" title="Visitar o LinkedIn de Álex Lima">
+    <img src="./assets/linkedin-button.svg" width="152" height="44" alt="LinkedIn de Álex Lima" />
+  </a>
+</p>
 
 ---
 
