@@ -58,29 +58,33 @@ Plataforma com frontend e API para apoiar a gestão de cursos, turmas e atividad
 
 ## Tecnologias
 
-Tecnologias utilizadas nos projetos apresentados:
+Principais linguagens e tecnologias:
 
 <table width="100%">
   <tr>
-    <td align="center" width="20%"><img src="./assets/typescript.svg" width="38" height="38" alt="TypeScript" /><br /><sub><strong>TypeScript</strong></sub></td>
-    <td align="center" width="20%"><img src="./assets/react.svg" width="38" height="38" alt="React" /><br /><sub><strong>React</strong></sub></td>
-    <td align="center" width="20%"><img src="./assets/nextjs.svg" width="38" height="38" alt="Next.js" /><br /><sub><strong>Next.js</strong></sub></td>
-    <td align="center" width="20%"><img src="./assets/nodejs.svg" width="38" height="38" alt="Node.js" /><br /><sub><strong>Node.js</strong></sub></td>
-    <td align="center" width="20%"><img src="./assets/nestjs.svg" width="38" height="38" alt="NestJS" /><br /><sub><strong>NestJS</strong></sub></td>
+    <td align="center" width="25%"><img src="./assets/typescript.svg" width="38" height="38" alt="TypeScript" /><br /><sub><strong>TypeScript</strong></sub></td>
+    <td align="center" width="25%"><img src="./assets/php.svg" width="38" height="38" alt="PHP" /><br /><sub><strong>PHP</strong></sub></td>
+    <td align="center" width="25%"><img src="./assets/python.svg" width="38" height="38" alt="Python" /><br /><sub><strong>Python</strong></sub></td>
+    <td align="center" width="25%"><img src="./assets/rust.svg" width="38" height="38" alt="Rust" /><br /><sub><strong>Rust</strong></sub></td>
   </tr>
   <tr>
-    <td align="center" width="20%"><img src="./assets/python.svg" width="38" height="38" alt="Python" /><br /><sub><strong>Python</strong></sub></td>
-    <td align="center" width="20%"><img src="./assets/rust.svg" width="38" height="38" alt="Rust" /><br /><sub><strong>Rust</strong></sub></td>
-    <td align="center" width="20%"><img src="./assets/tauri.svg" width="38" height="38" alt="Tauri" /><br /><sub><strong>Tauri</strong></sub></td>
-    <td align="center" width="20%"><img src="./assets/postgresql.svg" width="38" height="38" alt="PostgreSQL" /><br /><sub><strong>PostgreSQL</strong></sub></td>
-    <td align="center" width="20%"><img src="./assets/sqlite.svg" width="38" height="38" alt="SQLite" /><br /><sub><strong>SQLite</strong></sub></td>
+    <td align="center" width="25%"><img src="./assets/react.svg" width="38" height="38" alt="React" /><br /><sub><strong>React</strong></sub></td>
+    <td align="center" width="25%"><img src="./assets/nextjs.svg" width="38" height="38" alt="Next.js" /><br /><sub><strong>Next.js</strong></sub></td>
+    <td align="center" width="25%"><img src="./assets/nodejs.svg" width="38" height="38" alt="Node.js" /><br /><sub><strong>Node.js</strong></sub></td>
+    <td align="center" width="25%"><img src="./assets/nestjs.svg" width="38" height="38" alt="NestJS" /><br /><sub><strong>NestJS</strong></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="25%"><img src="./assets/tauri.svg" width="38" height="38" alt="Tauri" /><br /><sub><strong>Tauri</strong></sub></td>
+    <td align="center" width="25%"><img src="./assets/postgresql.svg" width="38" height="38" alt="PostgreSQL" /><br /><sub><strong>PostgreSQL</strong></sub></td>
+    <td align="center" width="25%"><img src="./assets/sqlite.svg" width="38" height="38" alt="SQLite" /><br /><sub><strong>SQLite</strong></sub></td>
+    <td width="25%"></td>
   </tr>
 </table>
 
 <details>
 <summary><strong>Outras linguagens, ferramentas e tecnologias</strong></summary>
 
-- **Linguagens:** JavaScript, PHP e Java.
+- **Linguagens:** JavaScript e Java.
 - **Frontend:** Vue.js, HTML, CSS, Tailwind CSS, jQuery e Vite.
 - **Backend:** Laravel e FastAPI.
 - **Dados:** MySQL, MariaDB, Redis, Prisma e Supabase.
