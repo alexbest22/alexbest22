@@ -77,14 +77,14 @@ Principais linguagens e tecnologias:
     <td align="center" width="25%"><img src="./assets/tauri.svg" width="38" height="38" alt="Tauri" /><br /><sub><strong>Tauri</strong></sub></td>
     <td align="center" width="25%"><img src="./assets/postgresql.svg" width="38" height="38" alt="PostgreSQL" /><br /><sub><strong>PostgreSQL</strong></sub></td>
     <td align="center" width="25%"><img src="./assets/sqlite.svg" width="38" height="38" alt="SQLite" /><br /><sub><strong>SQLite</strong></sub></td>
-    <td width="25%"></td>
+    <td align="center" width="25%"><img src="./assets/java.svg" width="38" height="38" alt="Java" /><br /><sub><strong>Java</strong></sub></td>
   </tr>
 </table>
 
 <details>
 <summary><strong>Outras linguagens, ferramentas e tecnologias</strong></summary>
 
-- **Linguagens:** JavaScript e Java.
+- **Linguagens:** JavaScript.
 - **Frontend:** Vue.js, HTML, CSS, Tailwind CSS, jQuery e Vite.
 - **Backend:** Laravel e FastAPI.
 - **Dados:** MySQL, MariaDB, Redis, Prisma e Supabase.
